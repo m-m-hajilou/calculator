@@ -1,5 +1,5 @@
 # calculator
-<h2>به نام مهندس گیتی</h2>
+<h1>به نام مهندس گیتی</h1>
 <h4>
 یک پروژه ماشین حساب با قابلیت اضافه شدن یک کتاب خانه
 </h4>
@@ -20,9 +20,9 @@
 است و دارای خطایایی که یا به خاطر سختی درست کردن آن در این زبان و یا به خاطر تلاش کم من استcبه زبان 
  </h4>
 
-<h2> یاعلی</h2>
+<h1> یاعلی</h1>
 
-<h3>In the name of the world engineer</h3>
+<h1>In the name of the world engineer</h1>
 <h4>
 A calculator project with the ability to add a library
 </h4>
@@ -43,4 +43,4 @@ The four operator libraries have a function to calculate the result, which has a
 And it has errors that are either due to the difficulty of making it in this language or because of my low effort.
 Project is c language
   </h4>
-<h3>YA ALI</h3>
+<h1>YA ALI</h1>
