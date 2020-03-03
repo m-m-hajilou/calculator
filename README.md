@@ -8,7 +8,7 @@
 اما بدونه کامپایل مجدد.
 </h4>
 <h4>به این صورت که ابتدا پیغامی جهت توضیح و محدودیت  ها نوشته میشود و سپس در خواست عدد اول و سپس عملگر دوم</h4>
-<h4> ولی برنامه پیغام عدم شناسایی  عملگر را میدهد و میگوید اکنون اضافه شده و سپس دوباره ورودی ها وارد میشود و سپس جواب</h4>
+<h4> ولی برنامه پیغام عدم شناسایی  عملگر را میدهد و میگوید اکنون اضافه شده و سپس دوباره ورودی ها وارد میشود و سپس جواب نمایش داده میشود</h4>
 <h4>
 چهار کتابخانه عملگر ها دارای تابعی  جهت محاسبه نتیجه است که دارای تابع بسیار ساده است  با یک نگاه به لطف خدا متوجه میشود
 </h4>
@@ -17,7 +17,7 @@
 </h4>
 <h4> است جهت مشاهده کامیت ها به آدرس برویدhttps://github.com/m-m-hajilou/project-class.gitپروزه جهت مرتب سازی از </h4>
 <h4>
-است و دارای خطایایی که یا به خاطر سختی درست کردن آن در این زبان و یا تلاش کم من استcبه زبان 
+است و دارای خطایایی که یا به خاطر سختی درست کردن آن در این زبان و یا به خاطر تلاش کم من استcبه زبان 
  </h4>
 
 <h2> یاعلی</h2>
@@ -40,6 +40,7 @@ The four operator libraries have a function to calculate the result, which has a
 </h4>
 <h4> Go to https://github.com/m-m-hajilou/project-class.git to view committees </h4>
 <h4>
-And has errors that are either due to the difficulty of making it in this language or my low c effort in the language
- </h4>
+And it has errors that are either due to the difficulty of making it in this language or because of my low effort.
+Project is c language
+  </h4>
 <h3>YA ALI</h3>
